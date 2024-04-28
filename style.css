@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, rgba(255, 239, 186, 1), rgba(255, 255, 255, 1));
+}
+
+a.navbar-brand {
+    margin-left: 100px;
+}
+
+div.header {
+    margin-left: 400px;
+}
+
+div.button {
+    margin-left: 100px;
+}
+
+div.social-1 {
+    margin-left: 100px;
+}
+
+div.social-1 img {
+    margin-left: 10px;
+}
+
+div.text-1 {
+    margin-top: 200px;
+    margin-left: 100px;
+    width: 555px;
+    height: 122px;
+    top: 272px;
+    left: 149px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+
+h1 {
+    font-family: Roboto;
+    font-size: 52px;
+    font-weight: 500;
+    line-height: 60.94px;
+    text-align: left;
+}
+
+
+
+div.text {
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 555px;
+    height: 56px;
+    top: 458px;
+    left: 149px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+
+h3 {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+
+
+
+}
+
+div.button-1 {
+    margin-top: 50px;
+    margin-left: 100px;
+
+}
+
+div.hug {
+    width: 574px;
+    height: 574px;
+    margin-top: -400px;
+    margin-left: 800px;
+
+
+}
